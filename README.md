@@ -1,6 +1,6 @@
 # Hi there 👋, 
 <div  style="max-width: 300px">
-<img src="https://i.gifer.com/PYh.gif">
+<img src="https://raw.githubusercontent.com/loredanamoanga/loredanamoanga/main/assets/PYh.gif">
 </div>
 
  # 👩‍💻 I'm Lore, a Full Stack Web Developer working in Amsterdam 🇳🇱
