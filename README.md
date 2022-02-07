@@ -1,7 +1,6 @@
 # Hi there 👋, 
-<div  style="max-width: 200px">
-<img src="https://raw.githubusercontent.com/loredanamoanga/loredanamoanga/main/assets/PYh.gif">
-</div>
+<img alt="nyan cat" width="200" src="https://raw.githubusercontent.com/loredanamoanga/loredanamoanga/main/assets/PYh.gif">
+
 
  # 👩‍💻 I'm Lore, a Full Stack Web Developer working in Amsterdam 🇳🇱
 
