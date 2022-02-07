@@ -1,5 +1,5 @@
 # Hi there 👋, 
-<div  style="max-width: 300px">
+<div  style="max-width: 200px">
 <img src="https://raw.githubusercontent.com/loredanamoanga/loredanamoanga/main/assets/PYh.gif">
 </div>
 
