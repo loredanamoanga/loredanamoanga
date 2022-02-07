@@ -5,7 +5,7 @@
  # 👩‍💻 I'm Lore, a Full Stack Web Developer working in Amsterdam 🇳🇱
 
 
-##Tech 🍬
+## Tech 🍬
 
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031.svg?&style=flat&logo=angular&logoColor=white)
 ![VueJs](https://img.shields.io/badge/-VueJs-41B883.svg?&style=flat&logo=vuedotjs&logoColor=white)
